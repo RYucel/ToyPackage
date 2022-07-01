@@ -7,6 +7,6 @@ hello()
 \description{
 Prints 'Hello, world!'.
 }
-\examples{
+\dontrun{\examples{
 hello()
-}
+}}
